@@ -1,0 +1,40 @@
+/* App.css */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f0f2f5;
+  color: #333;
+  text-align: left;
+  margin-top: 100px;
+  margin-left: 30%;
+  font-size: large;
+}
+div {
+  margin-top: 10px;
+}
+button {
+  margin-top: 20px;
+}
+input {
+  margin-right: 10px;
+  float: center;
+}
+.description {
+  white-space: pre-line;
+  color: #666666;
+  font-size: medium;
+}
+h2 {
+  color:#26148b
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center; 
+  justify-content: space-between; 
+  gap: 10px; 
+}
+
+.nav-bar button {
+  margin-left: 10px; 
+}
